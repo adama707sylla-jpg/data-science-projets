@@ -2,7 +2,7 @@
 Salut ! Je m'appelle Adama Sylla (@sylla719adama).  
 Je suis en train de suivre les cours IBM sur Coursera/Skills Network :  
 - Certifié Python 101 for Data Science
-    ![Certificat Python](./certificat%20Python%20pour%20la%20science%20des%20donnees....)
+    ![Certificat Python.pdf](./certificat%20Python%20pour%20la%20science%20des%20donnees....)
 - Bientôt SQL ,Data Analysis, Data Visualisation , machine learning.
 
 Ici je vais uploader mes notebooks Jupyter, mes analyses et mes futurs modèles ML.  
