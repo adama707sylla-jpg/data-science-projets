@@ -4,7 +4,7 @@ Salut ! Je m'appelle **Adama Sylla** (@sylla719adama).
 Je suis en train de me former en **Data Science** via les cours IBM sur Coursera / Skills Network.
 
 ### Certifications en cours / obtenues
-- [Certifié Python 101 pour la Science des Données](Certificat_Python.pdf)  
+- Certifié Python 101 pour la Science des Données
 - Prochainement : SQL, Analyse de données, Visualisation de données, Apprentissage automatique
 
 ### Objectif
@@ -17,7 +17,7 @@ Ici, je partage mes notebooks Jupyter, mes analyses et mes futurs modèles ML.
 - **Segmentation RFM – 400 clients e-commerce**  
   Analyse RFM complète (Recency, Frequency, Monetary) + création de 4 segments business :  
   Champion · Fidèle · À potentiel · À risque  
-  → Notebook : [notebook/RFM_Analysis_400_clients.ipynb](notebook/RFM_Analysis_400_clients.ipynb)  
+  → Notebook  
   → Résultat clé : ~54 % des clients "À risque" → fort potentiel de réactivation
 
 **Projets en cours / à venir**
